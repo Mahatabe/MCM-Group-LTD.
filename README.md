@@ -1,5 +1,5 @@
 # OfficeManagementSystem
-It is a simple java project foe management of office. 
+It is a java project foe management of office. 
 It contains two login:
 1)Employee login
 2)Admin login
