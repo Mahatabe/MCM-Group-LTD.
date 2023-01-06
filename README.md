@@ -14,5 +14,3 @@ Admin login
 2)transfer circular
 3)Remove an employ
 4)Grant leave
-
-**many features are yet to be added.
